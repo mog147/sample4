@@ -135,6 +135,10 @@
       z-index: 10;
     }
 
+    .title img{
+      margin: 50px auto;
+    }
+
     .subtitle{
       position: absolute;
       top:12rem;
