@@ -30,6 +30,10 @@
     Helvetica, "游ゴシック Medium", meiryo, sans-serif;
     overflow-x: hidden;
   }
+
+  .wrapper{
+    overflow:hidden;
+  }
   
   h2,label {
     color: var(--main-color );
